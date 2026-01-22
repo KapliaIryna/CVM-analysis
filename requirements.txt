@@ -1,0 +1,5 @@
+pandas
+pandasql
+scipy
+plotly
+seaborn

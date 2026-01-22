@@ -26,8 +26,8 @@ The dataset used in this project is the Online Retail Data Set, sourced from Kag
 3. **Churn Analysis**: Calculated a 90-day churn threshold and identified segments at risk.
 
 ## Interactive Dashboard:
-    You can explore the interactive RFM & Churn analysis results here:
-    View Looker Studio Dashboard - https://lookerstudio.google.com/reporting/7c37e485-97db-4d70-805c-cfd4870ad278
+You can explore the interactive RFM & Churn analysis results here:
+View Looker Studio Dashboard - https://lookerstudio.google.com/reporting/7c37e485-97db-4d70-805c-cfd4870ad278
 
 ## How to Run
 1. Build the image:
